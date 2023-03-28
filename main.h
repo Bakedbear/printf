@@ -1,1 +1,1 @@
-int _printf(const char *format, ...);
+gnt _printf(const char *format, ...);
