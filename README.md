@@ -1,11 +1,11 @@
-#ALX Software Enginering Printf Team Project
+# ALX Software Enginering Printf Team Project
 
-This project is a team project that contains a custom made printf function for C langusge.
+This project is a team project that contains a custom made printf function for C language.
 It takes various inputs and arguments based on how the standard printf library function works.
 
 
 ## Printf function
-Team project 
+
 This is a simple implementation of printf function that formats and prints data
 
 ### Description
