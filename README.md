@@ -1,3 +1,9 @@
+#ALX Software Enginering Printf Team Project
+
+This project is a team project that contains a custom made printf function for C langusge.
+It takes various inputs and arguments based on how the standard printf library function works.
+
+
 ## Printf function
 Team project 
 This is a simple implementation of printf function that formats and prints data
@@ -16,4 +22,4 @@ The available convertion specifiers are:
 * %x: Prints the hexadecimal representation of an unsigned decimal in lowercase letters
 * %X: Prints the hexadecimal representation of an unsigned decimal in uppercase letters
 * %r: Prints a reversed string
-* %R: Prints the Rot13 interpretation of a string
+* %R: Prints the Rot13 interpretation of a string:
